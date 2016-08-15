@@ -1,0 +1,91 @@
+20003293	USA;Alabama;Opelika	14	shopping;relaxation;food	32.6126963614	-85.4083305598	811 Fox Run Parkway, Opelika, AL 36801, USA	/hotel/us/hotel-fox-run-pkwy-opelika.en-gb.html
+20007019	USA;Arizona;Rio Rico	40	relaxation;stargazing;scenery	31.5954833879	-111.069021804	13 Burruel Street, Tubac, AZ 85646, USA	/hotel/us/tubac-country-inn.en-gb.html
+20007415	USA;Arizona;Tubac	1	relaxation;shopping;art	31.5954833879	-111.069021804	13 Burruel Street, Tubac, AZ 85646, USA	/hotel/us/tubac-country-inn.en-gb.html
+20007550	USA;Arizona;Wickenburg	5	relaxation;tranquility;golf	33.958233	-112.741118002	293 E Wickenburg Way , Wickenburg, 85390-1484, USA	/hotel/us/best-western-rancho-grande.en-gb.html
+20011889	USA;California;Buttonwillow	3	budget-friendly travelling;cleanliness;sunshine	35.3040063168	-119.402222335	200 Trask Street, Buttonwillow, CA 93314, USA	/hotel/us/bakersfield-200-trask-street.en-gb.html
+20012211	USA;California;Claremont	5	food;shopping;nature	34.078557214	-117.720166147	840 South Indian Hill Boulevard, Claremont, CA 91711, USA	/hotel/us/claremont-and-tennis-club.en-gb.html
+20012464	USA;California;Dana Point	6	relaxation;beaches;scenery	33.4462533098	-117.719535828	25135 Park Lantern, Dana Point, CA 92629, USA	/hotel/us/laguna-cliffs-marriott-resort.en-gb.html
+20013418	USA;California;Hayward	13	family friendly exploring;business;tranquility	37.5468414551	-122.109238	2460 Whipple Road, Hayward, CA 94544, USA	/hotel/us/america-s-best-value-inn-hayward-union-city.en-gb.html
+20013454	USA;California;Hesperia	9	shopping;family friendly exploring;tranquility	34.3871411434	-117.421968877	9750 Keypointe Avenue, Hesperia, CA 92345, USA	/hotel/us/holiday-inn-express-suites-hesperia.en-gb.html
+20013869	USA;California;Kyburz	1	nature;clean air;scenery	38.6835939975	-120.527397758	13666 Highway US 50, Kyburz, CA 95720, USA	/hotel/us/sierra-inn.en-gb.html
+20015173	USA;California;Petaluma	11	restaurants;wine;friendly people	38.2309758111	-122.72824131	5100 Montero Way, Petaluma, CA 94954, USA	/hotel/us/hotel-montero-way-petaluma.en-gb.html
+20015470	USA;California;Red Bluff	12	nature;friendly people;hiking	40.1679770681	-122.239562273	203 Antelope Boulevard, Red Bluff, CA 96080, USA	/hotel/us/redbluff-203-antelope.en-gb.html
+20016325	USA;California;Tahoe Vista	8	scenery;lakes;relaxation	39.1702923055	-120.152538051	7035 North Lake Boulevard, PO Box 135, Tahoe Vista, CA 96148, USA	/hotel/us/firelite-lodge.en-gb.html
+20016974	USA;California;Yountville	12	wine;food;restaurants	38.3992910789	-122.368688209	6541 Washington Street, Yountville, CA 94599, USA	/hotel/us/yountville-6481-washington-street.en-gb.html
+20018800	USA;Connecticut;Fairfield	3	family friendly exploring;relaxation;friendly people	41.094953	-73.2714546	417 Post Road, Fairfield, CT 06824, USA	/hotel/us/fairfield-circle-inn.en-gb.html
+20020942	USA;Delaware;Talleyville	2	shopping;museums;restaurants	39.65578802	-75.6312936544	5209 Concord Pike, Talleyville, DE 19803, USA	/hotel/us/days-inn-wilmington.en-gb.html
+20022229	USA;Florida;Everglades City	6	nature;wildlife;boating	25.7645300988	-81.5120261908	309 Collier Ave, Everglades City, FL 34139, USA	/hotel/us/everglades-city-motel.en-gb.html
+20022265	USA;Florida;Fernandina Beach	119	beaches;relaxation;beach walks	30.6083709393	-81.4645899832	2707 Sadler Road, Fernandina Beach, FL 32034, USA	/hotel/us/fernandina-beach-2707-sadler-road.en-gb.html
+20023714	USA;Florida;Pompano Beach	45	beaches;relaxation;beach walks	26.2223783479	-80.1588195562	615 North Ocean Boulevard, Pompano Beach, FL 33062, USA	/hotel/us/wyndham-sea-gardens.en-gb.html
+20024245	USA;Florida;Tamiami	6	gambling;nature;shopping	25.7188940793	-80.7048685902	500 Southwest 177 Avenue, Tamiami, FL 33194, USA	/hotel/us/miccosukee-resort-gaming.en-gb.html
+20024542	USA;Florida;Wildwood	17	budget-friendly travelling;nature;tranquility	28.6686387231	-82.1770519763	1224 South Main Street, Wildwood, FL 34785, USA	/hotel/us/suites-wildwood.en-gb.html
+20024605	USA;Florida;Yulee	5	beaches;nature;friendly people	30.489878	-81.8579024076	462577 State Road 200, Yulee, FL 32097, USA	/hotel/us/yulee-462577-state-road-200-country-inn-yulee.en-gb.html
+20024858	USA;Georgia;Bainbridge	6	relaxation;countryside;friendly people	30.8874499	-84.5657503	1401 Tallahassee Highway, Bainbridge, GA 39819, USA	/hotel/us/howard-johnson-bainbridge.en-gb.html
+20026126	USA;Georgia;Dillard	4	mountains;scenery;relaxation	34.7686362525	-83.5723587873	205 Carolina Street, Dillard, GA 30537, USA	/hotel/us/rabun-manor.en-gb.html
+20030905	USA;The Big Island;Hilo	22	volcanoes;nature;waterfalls	19.6984646578	-155.090911198	71 Banyan Drive, Hilo, HI 96720, USA	/hotel/us/castle-hilo-hawaiian.en-gb.html
+20033911	USA;Illinois;Glenview	7	relaxation;shopping;nature	42.055360703	-87.9104465246	1400 Milwaukee Avenue, Glenview, IL 60025, USA	/hotel/us/wglenview-suites-glenview-illinois.en-gb.html
+20034596	USA;Illinois;Lombard	9	shopping;restaurants;relaxation	41.6288843251	-88.2012180984	222 East 22nd Street , Lombard, IL 60148, USA	/hotel/us/stay-chicago-lombard-il.en-gb.html
+20036972	USA;Indiana;Clarksville	7	family friendly exploring;restaurants;shopping	38.2019448778	-85.9357165319	505 Marriott Drive, Clarksville, IN 47129, USA	/hotel/us/holiday-inn-louisville-north-clarksville.en-gb.html
+20042425	USA;Kansas;Dodge City	12	history;museums;gambling	37.7512943293	-100.111685917	2320 West Wyatt Earp, Dodge City, KS 67801, USA	/hotel/us/holiday-inn-express-dodge-city.en-gb.html
+20044559	USA;Kentucky;Covington	8	aquariums;restaurants;entertainment	39.085492	-84.521824	10 West Rivercenter Boulevard, Covington, KY 41011, USA	/hotel/us/marriott-cincinnati-downtown-river-center.en-gb.html
+20051489	USA;Maine;Bath	4	nature;shopping;restaurants	43.8399246098	-70.1210707426	139 Richardson Street, Bath, ME 04530, USA	/hotel/us/holiday-inn-bath-brunswick-area.en-gb.html
+20056420	USA;Maryland;Greenbelt	5	relaxation;food;nature	38.8857121891	-77.1168726683	7200 Hanover Drive, Greenbelt, MD 20770, USA	/hotel/us/holiday-inn-washington-d-c-greenbelt-md.en-gb.html
+20057465	USA;Maryland;La Vale	4	scenery;relaxation;mountains	39.6322282757	-78.8591033721	1268 National Highway, La Vale, MD 21502, USA	/hotel/us/best-western-braddock-inn.en-gb.html
+20062423	USA;Massachusetts;Hull	4	beaches;beach walks;relaxation	42.1631194401	-71.0709026456	115 Nantasket Avenue, Hull, MA 02045, USA	/hotel/us/nantasket-at-the-beach.en-gb.html
+20063152	USA;Massachusetts;Sandwich	9	relaxation;beaches;scenery	41.5596516387	-70.6649047136	50 Main Street, Sandwich, MA 02563, USA	/hotel/us/cranberry-manor-b-amp-b.en-gb.html
+20065286	USA;Michigan;Mackinac Island	4	scenery;cycling;relaxation	45.8397239405	-84.646600341	7260 Main Street, Mackinac Island, MI 49757, USA	/hotel/us/murray-mackinac-island.en-gb.html
+20065745	USA;Michigan;Petoskey	10	scenery;relaxation;shopping	45.3460513465	-84.9903219855	1420 South US-131 (Spring Street), Petoskey, MI 49770, USA	/hotel/us/petoskey-1420-spring-street.en-gb.html
+20067112	USA;Minnesota;Eagan	15	shopping;family friendly exploring;food	44.6935456517	-93.3556272089	3450 Washington Drive, Eagan, MN 55122, USA	/hotel/us/best-western-dakota-ridge.en-gb.html
+20067211	USA;Minnesota;Fergus Falls	4	friendly people;countryside;restaurants	46.2867993375	-96.1164021492	526 Western Avenue, Fergus Falls, MN 56537, USA	/hotel/us/americinn-lodge-fergus-falls.en-gb.html
+20067761	USA;Minnesota;Mankato	13	friendly people;shopping;food	44.1369468687	-94.062192142	101 East Main Street, Mankato, MN 56001, USA	/hotel/us/mankato-101-east-main-street.en-gb.html
+20074619	USA;Missouri;Pacific	2	cleanliness;relaxation;friendly people	38.3021541789	-90.9769206495	1320 Thornton Street, Pacific, MO 63069, USA	/hotel/us/comfort-inn-pacific.en-gb.html
+20075032	USA;Missouri;Rolla	12	nature;family friendly exploring;friendly people	37.9202644808	-91.8313477294	1610 Old Wire Outer Road, Rolla, MO 65401, USA	/hotel/us/holiday-inn-express-rolla.en-gb.html
+20076176	USA;Montana;Bozeman	32	scenery;mountains;nature	45.6827439079	-111.09115726	1121 Reeves Road West, Bozeman, MT 59718, USA	/hotel/us/mountainview-lodge-and-suites.en-gb.html
+20079083	USA;Nevada;Jean	1	budget-friendly travelling;gambling;relaxation	35.6103655578	-115.386425704	1 Main Street, Jean, NV 89019, USA	/hotel/us/gold-strike-amp-casino.en-gb.html
+20079803	USA;New Hampshire;Hampton	30	beaches;beach walks;relaxation	42.8843864325	-70.8334372938	391 Ocean Boulevard, Hampton, NH 03842, USA	/hotel/us/the-atlantic-motel-hampton.en-gb.html
+20079858	USA;New Hampshire;Jackson	12	scenery;relaxation;hiking	44.1218382361	-71.1884343624	Route 16, Jackson, NH 03846, USA	/hotel/us/nordic-village-resort.en-gb.html
+20080298	USA;New Hampshire;Thornton	3	nature;relaxation;hiking	43.6445924928	-71.6855657101	2378 US Route 3, Thornton, NH 03285, USA	/hotel/us/gilcrest-cottages-and-motel.en-gb.html
+20080504	USA;New Jersey;Avenel	6	shopping;business;relaxation	40.5829823064	-74.282284677	1275 Route 1 South, Avenel, NJ 07001, USA	/hotel/us/avenel.en-gb.html
+20081035	USA;New Jersey;East Rutherford	5	football;sport;live music	40.7738387473	-74.114716351	2 Meadowlands Plaza, East Rutherford, NJ 07073 , USA	/hotel/us/sheraton-meadowlands.en-gb.html
+20081530	USA;New Jersey;Kenilworth	1	nature;family friendly exploring;relaxation	40.5789622664	-74.5699026436	Boulevard &amp; South 31 Street, Kenilworth, NJ 07033, USA	/hotel/us/kenilworth-inn.en-gb.html
+20082520	USA;New Jersey;Somerset	15	family friendly exploring;relaxation;cleanliness	40.5302886695	-74.5355335325	255 Davidson Avenue, Somerset, NJ 08873 , USA	/hotel/us/hampton-inn-somerset-somerset.en-gb.html
+20084717	USA;New York State;Aquebogue	1	relaxation;wine;tranquility	40.8495584527	-72.74930489	15 Bay Avenue, Aquebogue, NY 11931, USA	/hotel/us/dci-aquebogue-new-york.en-gb.html
+20085086	USA;New York State;Bohemia	2	relaxation;nature;beaches	40.6479239018	-73.1946820022	10 Aero Rd, Bohemia, NY 11716, USA	/hotel/us/la-quinta-inn-amp-suites-islip-macarthur-airport.en-gb.html
+20085509	USA;New York State;Chestertown	3	nature;lakes;tranquility	43.4868905226	-74.1072137239	5381 State Route 8, Chestertown, NY 12817, USA	/hotel/us/conways-lake-manor.en-gb.html
+20085545	USA;New York State;Clarence Center	3	relaxation;sightseeing;budget-friendly travelling	42.83291034	-78.8660940528	8005 Sheridan Drive, Clarence Center, NY 14221, USA	/hotel/us/staybridge-suites-buffalo-airport.en-gb.html
+20085608	USA;New York State;Cobleskill	2	nature;family friendly exploring;friendly people	42.5700765511	-74.6309253584	121 Burgin Drive, Cobleskill, NY 12043, USA	/hotel/us/cobleskill-121-burgin-drive.en-gb.html
+20085707	USA;New York State;Cooperstown	22	museums;scenery;relaxation	42.6050309532	-74.9627476931	34 Pioneer Street, Cooperstown, NY 13326, USA	/hotel/us/the-tunnicliff-inn.en-gb.html
+20087462	USA;New York State;Kingston	12	history;scenery;hiking	41.9082028202	-74.0742832663	503 Washington Avenue, Kingston, NY 12401, USA	/hotel/us/holiday-inn-kingston.en-gb.html
+20088713	USA;New York State;Painted Post	4	museums;relaxation;shopping	42.1421541658	-77.346598506	9775 Victory Highway, Painted Post, NY 14870, USA	/hotel/us/hampton-inn-corning-painted-post.en-gb.html
+20089541	USA;New York State;Shelter Island	2	relaxation;tranquility;scenery	40.8598725064	-72.599693	81 Shore Road, Shelter Island, NY 11964, USA	/hotel/us/pridwin.en-gb.html
+20090305	USA;New York State;Victor	7	shopping;relaxation;scenery	43.0058004761	-77.4484614622	7498 Main Street Fishers, Victor, NY 14564, USA	/hotel/us/microtel-by-wyndham-victor.en-gb.html
+20090657	USA;New York State;White Plains	10	shopping;food;relaxation	40.9988715991	-73.7699988484	80 West Red Oak Lane, White Plains, NY 10604, USA	/hotel/us/renaissance-westchester.en-gb.html
+20090756	USA;New York State;Woodbury	3	nature;shopping;budget-friendly travelling	40.812256285	-73.4942986071	7755 Jericho Turnpike, Woodbury, NY 11797, USA	/hotel/us/the-inn-at-fox-hollow.en-gb.html
+20097579	USA;Ohio;Chillicothe	7	history;family friendly exploring;shopping	39.3349083921	-83.0046352631	1250 N Bridge St, Chillicothe, OH 45601, USA	/hotel/us/best-western-adena-inn.en-gb.html
+20102103	USA;Oklahoma;Ardmore	20	family friendly exploring;restaurants;shopping	34.157022527	-97.1710111563	136 Holiday Drive, Ardmore, OK 73401, USA	/hotel/us/lexington-inn-ardmore.en-gb.html
+20109935	USA;Pennsylvania;Lancaster	36	shopping;sightseeing;food	39.9988680832	-76.3081222773	2133  Lincoln Highway East, Lancaster, PA 17602, USA	/hotel/us/the-country-inn-of-lancaster.en-gb.html
+20116667	USA;South Carolina;Georgetown	4	food;fishing;relaxation	33.3648484	-79.2771731	120 Church Street, Georgetown, SC 29440, USA	/hotel/us/baymont-inn-and-suites-georgetown-south-carolina.en-gb.html
+20118485	USA;South Carolina;Santee	10	fishing;golf;relaxation	33.4821269417	-80.4855991155	221 Britain Street, Santee, SC 29142, USA	/hotel/us/hotel-britain-street-santee.en-gb.html
+20119736	USA;South Dakota;Keystone	8	monuments;scenery;sightseeing	43.8876483	-103.426984102	115 Swanzey Street, Keystone, SD 57751, USA	/hotel/us/mount-rushmore-s-white-house-resort.en-gb.html
+20122200	USA;Tennessee;Gatlinburg	212	mountains;shopping;relaxation	35.6895686516	-83.5228693349	421 Reagan Lane, Gatlinburg, TN 37738, USA	/hotel/us/country-inn-suites-by-carlson-gatlinburg.en-gb.html
+20126251	USA;Texas;Alpine	10	scenery;mountains;stargazing	30.3476437872	-103.696329519	2004 East Highway 90 , Alpine, TX 79830, USA	/hotel/us/holiday-inn-express-and-suites-alpine.en-gb.html
+20126350	USA;Texas;Arlington	52	theme parks;sport;family friendly exploring	32.7489758646	-97.0979243517	2075 North Highway 360, Arlington, TX 75050, USA	/hotel/us/best-western-plus-arlington-north.en-gb.html
+20128231	USA;Texas;Garland	12	restaurants;shopping;scenery	32.8658635465	-96.7323872481	5101 North President George Bush Highway, Garland, TX 75040, USA	/hotel/us/hyatt-place-garland-dallas.en-gb.html
+20128880	USA;Texas;Jacksonville	5	relaxation;countryside;friendly people	31.9398582871	-95.257242322	1848 South Jackson Street, Jacksonville, TX 75766, USA	/hotel/us/hotel-s-jackson-street-jacksonville.en-gb.html
+20129023	USA;Texas;Killeen	30	family friendly exploring;restaurants;friendly people	31.0797461841	-97.751852	501 East Central Texas Expressway, Killeen, TX 76541, USA	/hotel/us/value-place-killeen.en-gb.html
+20129320	USA;Texas;Lewisville	19	shopping;food;business	32.9965043862	-97.0037439466	330 East Corporate Drive, Lewisville, TX 75067, USA	/hotel/us/best-western-inn-suites-lewisville.en-gb.html
+20131822	USA;Texas;Texas City	8	beaches;fishing;cleanliness	29.2673510262	-95.2311979215	2320 FM 2004, Texas City, 77591, USA	/hotel/us/hampton-inn-texas-city.en-gb.html
+20132966	USA;Utah;Delta	2	tranquility;countryside;friendly people	39.347744667	-112.569819399	75 South 350 East, Delta, UT 84624, USA	/hotel/us/budget-motel-delta.en-gb.html
+20133956	USA;Utah;Salt Lake City	77	scenery;sightseeing;friendly people	40.7559900605	-111.938259	215 West South Temple, Salt Lake City, UT 84101, USA	/hotel/us/radisson-downtown.en-gb.html
+20134234	USA;Utah;Tropic	9	scenery;nature;parks	37.6228491867	-112.082031369	120 North Main Street, Tropic, UT 84776, USA	/hotel/us/bryce-valle-lodging.en-gb.html
+20135026	USA;Vermont;Norwich	1	nature;friendly people;relaxation	43.6096969991	-72.5503660403	325 Main Street , Norwich, VT 05055, USA	/hotel/us/the-norwich-inn.en-gb.html
+20141560	USA;Virginia;Skyland	191	nature;hiking;scenery	38.4813853147	-78.6782053113	138 Whispering Hill Road, Luray, VA 22835, USA	/hotel/us/days-inn-shenandoah-luray.en-gb.html
+20142668	USA;Virginia;Williamsburg	70	history;family friendly exploring;shopping	37.2430256021	-76.7604365945	600 Bypass Road, Williamsburg, VA 23185, USA	/hotel/us/la-quinta-williamsburg-600-bypass-road.en-gb.html
+20143144	USA;Washington State;Bremerton	9	relaxation;scenery;nature	47.5503894241	-122.740841806	5068 Kitsap Way, Bremerton, WA 98312, USA	/hotel/us/super-8-bremerton.en-gb.html
+20143603	USA;Washington State;Everett	16	shopping;scenery;relaxation	47.8442921642	-122.24337101	9602 19th Avenue South East, Everett, WA 98208, USA	/hotel/us/travelodge-everett-mall.en-gb.html
+20143702	USA;Washington State;Friday Harbor	15	relaxation;whale watching;scenery	48.4894145337	-123.082556427	410 Spring Street, Friday Harbor, WA 98250, USA	/hotel/us/earthbox-inn-amp-spa.en-gb.html
+20144189	USA;Washington State;Lynnwood	11	shopping;restaurants;friendly people	47.7990653271	-122.31219247	4300 Alderwood Mall Boulevard, Lynnwood, WA 98036, USA	/hotel/us/la-quinta-inn-lynnwood.en-gb.html
+20144747	USA;Washington State;Richland	14	family friendly exploring;wine;riverside walks	46.2302549973	-119.315793514	802 George Washington Way, Richland, WA 99352, USA	/hotel/us/red-lion-richland-hanford-house.en-gb.html
+20145179	USA;Washington State;Twisp	2	relaxation;hiking;walking	48.2524382161	-120.186141847	140 West Twisp Avenue, Twisp, WA 98856, USA	/hotel/us/twisp-river-suites.en-gb.html
+20151163	USA;Wisconsin;Shawano	2	fishing;boating;shopping	44.6191156774	-88.7726050615	West 7393 River Bend Road, Shawano, WI 54166, USA	/hotel/us/hotel-west-river-bend-road-shawano.en-gb.html
+20153242	Puerto Rico;Aguada	8	beaches;sandy beaches;surfing	18.2208574523	-67.3495583238	ROAD 441 KM 1.5, 00602 Aguada, Puerto Rico	/hotel/pr/aguada-road-441-kilometer-1.en-gb.html
